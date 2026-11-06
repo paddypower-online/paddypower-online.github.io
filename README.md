@@ -1,2 +1,3 @@
-# paddypower-online.github.io
-Landing published by Script Deploy Service
+# Paddy Power
+
+Published by Script Deploy Service.
